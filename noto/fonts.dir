@@ -1,4 +1,4 @@
-1609
+1667
 NotoKufiArabic-Black.ttf -misc-noto kufi arabic black-black-r-normal--0-0-0-0-p-0-iso10646-1
 NotoKufiArabic-Bold.ttf -misc-noto kufi arabic-bold-r-normal--0-0-0-0-p-0-iso10646-1
 NotoKufiArabic-Light.ttf -misc-noto kufi arabic light-light-r-normal--0-0-0-0-p-0-iso10646-1
@@ -47,14 +47,13 @@ NotoNaskhArabicUI-Medium.ttf -monotype-noto naskh arabic ui medium-medium-r-norm
 NotoNaskhArabicUI-Regular.ttf -monotype-noto naskh arabic ui-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoNaskhArabicUI-Regular.ttf -monotype-noto naskh arabic ui-medium-r-normal--0-0-0-0-p-0-iso8859-6.16
 NotoNaskhArabicUI-Regular.ttf -monotype-noto naskh arabic ui-medium-r-normal--0-0-0-0-p-0-iso8859-6.8x
-NotoNastaliqUrdu-Bold.ttf -monotype-noto nastaliq urdu-bold-r-normal--0-0-0-0-p-0-iso10646-1
 NotoNastaliqUrdu-Regular.ttf -monotype-noto nastaliq urdu-medium-r-normal--0-0-0-0-p-0-iso10646-1
-NotoRashiHebrew-Black.ttf -misc-noto rashi hebrew blk-black-r-normal--0-0-0-0-p-0-iso10646-1
+NotoRashiHebrew-Black.ttf -misc-noto serif hebrew blk-black-r-normal--0-0-0-0-p-0-iso10646-1
 NotoRashiHebrew-Bold.ttf -misc-noto rashi hebrew-bold-r-normal--0-0-0-0-p-0-iso10646-1
-NotoRashiHebrew-Light.ttf -misc-noto rashi hebrew light-light-r-normal--0-0-0-0-p-0-iso10646-1
-NotoRashiHebrew-Medium.ttf -misc-noto rashi hebrew med-medium-r-normal--0-0-0-0-p-0-iso10646-1
+NotoRashiHebrew-Light.ttf -misc-noto serif hebrew light-light-r-normal--0-0-0-0-p-0-iso10646-1
+NotoRashiHebrew-Medium.ttf -misc-noto serif hebrew med-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoRashiHebrew-Regular.ttf -misc-noto rashi hebrew-medium-r-normal--0-0-0-0-p-0-iso10646-1
-NotoRashiHebrew-Thin.ttf -misc-noto rashi hebrew thin-thin-r-normal--0-0-0-0-p-0-iso10646-1
+NotoRashiHebrew-Thin.ttf -misc-noto serif hebrew thin-thin-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSans-Black.ttf -monotype-noto sans black-black-r-normal--0-0-0-0-p-0-adobe-standard
 NotoSans-Black.ttf -monotype-noto sans black-black-r-normal--0-0-0-0-p-0-ascii-0
 NotoSans-Black.ttf -monotype-noto sans black-black-r-normal--0-0-0-0-p-0-iso10646-1
@@ -76,6 +75,27 @@ NotoSans-Black.ttf -monotype-noto sans black-black-r-normal--0-0-0-0-p-0-koi8-u
 NotoSans-Black.ttf -monotype-noto sans black-black-r-normal--0-0-0-0-p-0-koi8-uni
 NotoSans-Black.ttf -monotype-noto sans black-black-r-normal--0-0-0-0-p-0-microsoft-cp1252
 NotoSans-Black.ttf -monotype-noto sans black-black-r-normal--0-0-0-0-p-0-suneu-greek
+NotoSans-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-adobe-standard
+NotoSans-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-ascii-0
+NotoSans-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso10646-1
+NotoSans-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso8859-1
+NotoSans-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso8859-10
+NotoSans-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso8859-13
+NotoSans-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso8859-15
+NotoSans-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso8859-16
+NotoSans-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso8859-2
+NotoSans-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso8859-3
+NotoSans-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso8859-4
+NotoSans-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso8859-5
+NotoSans-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso8859-7
+NotoSans-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso8859-9
+NotoSans-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-koi8-e
+NotoSans-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-koi8-r
+NotoSans-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-koi8-ru
+NotoSans-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-koi8-u
+NotoSans-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-koi8-uni
+NotoSans-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-microsoft-cp1252
+NotoSans-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-suneu-greek
 NotoSans-Bold.ttf -monotype-noto sans-bold-r-normal--0-0-0-0-p-0-adobe-standard
 NotoSans-Bold.ttf -monotype-noto sans-bold-r-normal--0-0-0-0-p-0-ascii-0
 NotoSans-Bold.ttf -monotype-noto sans-bold-r-normal--0-0-0-0-p-0-iso10646-1
@@ -160,6 +180,27 @@ NotoSans-Light.ttf -monotype-noto sans light-light-r-normal--0-0-0-0-p-0-koi8-u
 NotoSans-Light.ttf -monotype-noto sans light-light-r-normal--0-0-0-0-p-0-koi8-uni
 NotoSans-Light.ttf -monotype-noto sans light-light-r-normal--0-0-0-0-p-0-microsoft-cp1252
 NotoSans-Light.ttf -monotype-noto sans light-light-r-normal--0-0-0-0-p-0-suneu-greek
+NotoSans-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-adobe-standard
+NotoSans-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-ascii-0
+NotoSans-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso10646-1
+NotoSans-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso8859-1
+NotoSans-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso8859-10
+NotoSans-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso8859-13
+NotoSans-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso8859-15
+NotoSans-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso8859-16
+NotoSans-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso8859-2
+NotoSans-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso8859-3
+NotoSans-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso8859-4
+NotoSans-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso8859-5
+NotoSans-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso8859-7
+NotoSans-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso8859-9
+NotoSans-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-koi8-e
+NotoSans-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-koi8-r
+NotoSans-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-koi8-ru
+NotoSans-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-koi8-u
+NotoSans-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-koi8-uni
+NotoSans-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-microsoft-cp1252
+NotoSans-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-suneu-greek
 NotoSans-Medium.ttf -monotype-noto sans medium-medium-r-normal--0-0-0-0-p-0-adobe-standard
 NotoSans-Medium.ttf -monotype-noto sans medium-medium-r-normal--0-0-0-0-p-0-ascii-0
 NotoSans-Medium.ttf -monotype-noto sans medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
@@ -181,6 +222,27 @@ NotoSans-Medium.ttf -monotype-noto sans medium-medium-r-normal--0-0-0-0-p-0-koi8
 NotoSans-Medium.ttf -monotype-noto sans medium-medium-r-normal--0-0-0-0-p-0-koi8-uni
 NotoSans-Medium.ttf -monotype-noto sans medium-medium-r-normal--0-0-0-0-p-0-microsoft-cp1252
 NotoSans-Medium.ttf -monotype-noto sans medium-medium-r-normal--0-0-0-0-p-0-suneu-greek
+NotoSans-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-adobe-standard
+NotoSans-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-ascii-0
+NotoSans-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso10646-1
+NotoSans-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-1
+NotoSans-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-10
+NotoSans-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-13
+NotoSans-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-15
+NotoSans-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-16
+NotoSans-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-2
+NotoSans-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-3
+NotoSans-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-4
+NotoSans-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-5
+NotoSans-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-7
+NotoSans-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-9
+NotoSans-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-koi8-e
+NotoSans-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-koi8-r
+NotoSans-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-koi8-ru
+NotoSans-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-koi8-u
+NotoSans-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-koi8-uni
+NotoSans-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-microsoft-cp1252
+NotoSans-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-suneu-greek
 NotoSans-Regular.ttf -monotype-noto sans-medium-r-normal--0-0-0-0-p-0-adobe-standard
 NotoSans-Regular.ttf -monotype-noto sans-medium-r-normal--0-0-0-0-p-0-ascii-0
 NotoSans-Regular.ttf -monotype-noto sans-medium-r-normal--0-0-0-0-p-0-iso10646-1
@@ -223,6 +285,27 @@ NotoSans-Thin.ttf -monotype-noto sans thin-thin-r-normal--0-0-0-0-p-0-koi8-u
 NotoSans-Thin.ttf -monotype-noto sans thin-thin-r-normal--0-0-0-0-p-0-koi8-uni
 NotoSans-Thin.ttf -monotype-noto sans thin-thin-r-normal--0-0-0-0-p-0-microsoft-cp1252
 NotoSans-Thin.ttf -monotype-noto sans thin-thin-r-normal--0-0-0-0-p-0-suneu-greek
+NotoSans-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-adobe-standard
+NotoSans-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-ascii-0
+NotoSans-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso10646-1
+NotoSans-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso8859-1
+NotoSans-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso8859-10
+NotoSans-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso8859-13
+NotoSans-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso8859-15
+NotoSans-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso8859-16
+NotoSans-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso8859-2
+NotoSans-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso8859-3
+NotoSans-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso8859-4
+NotoSans-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso8859-5
+NotoSans-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso8859-7
+NotoSans-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso8859-9
+NotoSans-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-koi8-e
+NotoSans-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-koi8-r
+NotoSans-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-koi8-ru
+NotoSans-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-koi8-u
+NotoSans-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-koi8-uni
+NotoSans-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-microsoft-cp1252
+NotoSans-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-suneu-greek
 NotoSansAdlam-Bold.ttf -misc-noto sans adlam-bold-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansAdlam-Regular.ttf -misc-noto sans adlam-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansAdlamUnjoined-Bold.ttf -misc-noto sans adlam unjoined-bold-r-normal--0-0-0-0-p-0-iso10646-1
@@ -344,90 +427,90 @@ NotoSansDisplay-Black.ttf -monotype-noto sans display black-black-r-normal--0-0-
 NotoSansDisplay-Black.ttf -monotype-noto sans display black-black-r-normal--0-0-0-0-p-0-koi8-uni
 NotoSansDisplay-Black.ttf -monotype-noto sans display black-black-r-normal--0-0-0-0-p-0-microsoft-cp1252
 NotoSansDisplay-Black.ttf -monotype-noto sans display black-black-r-normal--0-0-0-0-p-0-suneu-greek
-NotoSansDisplay-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-adobe-standard
-NotoSansDisplay-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-ascii-0
-NotoSansDisplay-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso10646-1
-NotoSansDisplay-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso8859-1
-NotoSansDisplay-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso8859-10
-NotoSansDisplay-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso8859-13
-NotoSansDisplay-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso8859-15
-NotoSansDisplay-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso8859-16
-NotoSansDisplay-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso8859-2
-NotoSansDisplay-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso8859-3
-NotoSansDisplay-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso8859-4
-NotoSansDisplay-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso8859-5
-NotoSansDisplay-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso8859-7
-NotoSansDisplay-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-iso8859-9
-NotoSansDisplay-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-koi8-e
-NotoSansDisplay-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-koi8-r
-NotoSansDisplay-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-koi8-ru
-NotoSansDisplay-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-koi8-u
-NotoSansDisplay-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-koi8-uni
-NotoSansDisplay-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-microsoft-cp1252
-NotoSansDisplay-BlackItalic.ttf -monotype-noto sans black-black-i-normal--0-0-0-0-p-0-suneu-greek
-NotoSansDisplay-Bold.ttf -monotype-noto sans display bold-bold-r-normal--0-0-0-0-p-0-adobe-standard
-NotoSansDisplay-Bold.ttf -monotype-noto sans display bold-bold-r-normal--0-0-0-0-p-0-ascii-0
-NotoSansDisplay-Bold.ttf -monotype-noto sans display bold-bold-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansDisplay-Bold.ttf -monotype-noto sans display bold-bold-r-normal--0-0-0-0-p-0-iso8859-1
-NotoSansDisplay-Bold.ttf -monotype-noto sans display bold-bold-r-normal--0-0-0-0-p-0-iso8859-10
-NotoSansDisplay-Bold.ttf -monotype-noto sans display bold-bold-r-normal--0-0-0-0-p-0-iso8859-13
-NotoSansDisplay-Bold.ttf -monotype-noto sans display bold-bold-r-normal--0-0-0-0-p-0-iso8859-15
-NotoSansDisplay-Bold.ttf -monotype-noto sans display bold-bold-r-normal--0-0-0-0-p-0-iso8859-16
-NotoSansDisplay-Bold.ttf -monotype-noto sans display bold-bold-r-normal--0-0-0-0-p-0-iso8859-2
-NotoSansDisplay-Bold.ttf -monotype-noto sans display bold-bold-r-normal--0-0-0-0-p-0-iso8859-3
-NotoSansDisplay-Bold.ttf -monotype-noto sans display bold-bold-r-normal--0-0-0-0-p-0-iso8859-4
-NotoSansDisplay-Bold.ttf -monotype-noto sans display bold-bold-r-normal--0-0-0-0-p-0-iso8859-5
-NotoSansDisplay-Bold.ttf -monotype-noto sans display bold-bold-r-normal--0-0-0-0-p-0-iso8859-7
-NotoSansDisplay-Bold.ttf -monotype-noto sans display bold-bold-r-normal--0-0-0-0-p-0-iso8859-9
-NotoSansDisplay-Bold.ttf -monotype-noto sans display bold-bold-r-normal--0-0-0-0-p-0-koi8-e
-NotoSansDisplay-Bold.ttf -monotype-noto sans display bold-bold-r-normal--0-0-0-0-p-0-koi8-r
-NotoSansDisplay-Bold.ttf -monotype-noto sans display bold-bold-r-normal--0-0-0-0-p-0-koi8-ru
-NotoSansDisplay-Bold.ttf -monotype-noto sans display bold-bold-r-normal--0-0-0-0-p-0-koi8-u
-NotoSansDisplay-Bold.ttf -monotype-noto sans display bold-bold-r-normal--0-0-0-0-p-0-koi8-uni
-NotoSansDisplay-Bold.ttf -monotype-noto sans display bold-bold-r-normal--0-0-0-0-p-0-microsoft-cp1252
-NotoSansDisplay-Bold.ttf -monotype-noto sans display bold-bold-r-normal--0-0-0-0-p-0-suneu-greek
-NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display bold italic-bold-r-normal--0-0-0-0-p-0-adobe-standard
-NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display bold italic-bold-r-normal--0-0-0-0-p-0-ascii-0
-NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display bold italic-bold-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-1
-NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-10
-NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-13
-NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-15
-NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-16
-NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-2
-NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-3
-NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-4
-NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-5
-NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-7
-NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-9
-NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display bold italic-bold-r-normal--0-0-0-0-p-0-koi8-e
-NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display bold italic-bold-r-normal--0-0-0-0-p-0-koi8-r
-NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display bold italic-bold-r-normal--0-0-0-0-p-0-koi8-ru
-NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display bold italic-bold-r-normal--0-0-0-0-p-0-koi8-u
-NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display bold italic-bold-r-normal--0-0-0-0-p-0-koi8-uni
-NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display bold italic-bold-r-normal--0-0-0-0-p-0-microsoft-cp1252
-NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display bold italic-bold-r-normal--0-0-0-0-p-0-suneu-greek
-NotoSansDisplay-Italic.ttf -monotype-noto sans display italic-medium-r-normal--0-0-0-0-p-0-adobe-standard
-NotoSansDisplay-Italic.ttf -monotype-noto sans display italic-medium-r-normal--0-0-0-0-p-0-ascii-0
-NotoSansDisplay-Italic.ttf -monotype-noto sans display italic-medium-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansDisplay-Italic.ttf -monotype-noto sans display italic-medium-r-normal--0-0-0-0-p-0-iso8859-1
-NotoSansDisplay-Italic.ttf -monotype-noto sans display italic-medium-r-normal--0-0-0-0-p-0-iso8859-10
-NotoSansDisplay-Italic.ttf -monotype-noto sans display italic-medium-r-normal--0-0-0-0-p-0-iso8859-13
-NotoSansDisplay-Italic.ttf -monotype-noto sans display italic-medium-r-normal--0-0-0-0-p-0-iso8859-15
-NotoSansDisplay-Italic.ttf -monotype-noto sans display italic-medium-r-normal--0-0-0-0-p-0-iso8859-16
-NotoSansDisplay-Italic.ttf -monotype-noto sans display italic-medium-r-normal--0-0-0-0-p-0-iso8859-2
-NotoSansDisplay-Italic.ttf -monotype-noto sans display italic-medium-r-normal--0-0-0-0-p-0-iso8859-3
-NotoSansDisplay-Italic.ttf -monotype-noto sans display italic-medium-r-normal--0-0-0-0-p-0-iso8859-4
-NotoSansDisplay-Italic.ttf -monotype-noto sans display italic-medium-r-normal--0-0-0-0-p-0-iso8859-5
-NotoSansDisplay-Italic.ttf -monotype-noto sans display italic-medium-r-normal--0-0-0-0-p-0-iso8859-7
-NotoSansDisplay-Italic.ttf -monotype-noto sans display italic-medium-r-normal--0-0-0-0-p-0-iso8859-9
-NotoSansDisplay-Italic.ttf -monotype-noto sans display italic-medium-r-normal--0-0-0-0-p-0-koi8-e
-NotoSansDisplay-Italic.ttf -monotype-noto sans display italic-medium-r-normal--0-0-0-0-p-0-koi8-r
-NotoSansDisplay-Italic.ttf -monotype-noto sans display italic-medium-r-normal--0-0-0-0-p-0-koi8-ru
-NotoSansDisplay-Italic.ttf -monotype-noto sans display italic-medium-r-normal--0-0-0-0-p-0-koi8-u
-NotoSansDisplay-Italic.ttf -monotype-noto sans display italic-medium-r-normal--0-0-0-0-p-0-koi8-uni
-NotoSansDisplay-Italic.ttf -monotype-noto sans display italic-medium-r-normal--0-0-0-0-p-0-microsoft-cp1252
-NotoSansDisplay-Italic.ttf -monotype-noto sans display italic-medium-r-normal--0-0-0-0-p-0-suneu-greek
+NotoSansDisplay-BlackItalic.ttf -monotype-noto sans display black-black-i-normal--0-0-0-0-p-0-adobe-standard
+NotoSansDisplay-BlackItalic.ttf -monotype-noto sans display black-black-i-normal--0-0-0-0-p-0-ascii-0
+NotoSansDisplay-BlackItalic.ttf -monotype-noto sans display black-black-i-normal--0-0-0-0-p-0-iso10646-1
+NotoSansDisplay-BlackItalic.ttf -monotype-noto sans display black-black-i-normal--0-0-0-0-p-0-iso8859-1
+NotoSansDisplay-BlackItalic.ttf -monotype-noto sans display black-black-i-normal--0-0-0-0-p-0-iso8859-10
+NotoSansDisplay-BlackItalic.ttf -monotype-noto sans display black-black-i-normal--0-0-0-0-p-0-iso8859-13
+NotoSansDisplay-BlackItalic.ttf -monotype-noto sans display black-black-i-normal--0-0-0-0-p-0-iso8859-15
+NotoSansDisplay-BlackItalic.ttf -monotype-noto sans display black-black-i-normal--0-0-0-0-p-0-iso8859-16
+NotoSansDisplay-BlackItalic.ttf -monotype-noto sans display black-black-i-normal--0-0-0-0-p-0-iso8859-2
+NotoSansDisplay-BlackItalic.ttf -monotype-noto sans display black-black-i-normal--0-0-0-0-p-0-iso8859-3
+NotoSansDisplay-BlackItalic.ttf -monotype-noto sans display black-black-i-normal--0-0-0-0-p-0-iso8859-4
+NotoSansDisplay-BlackItalic.ttf -monotype-noto sans display black-black-i-normal--0-0-0-0-p-0-iso8859-5
+NotoSansDisplay-BlackItalic.ttf -monotype-noto sans display black-black-i-normal--0-0-0-0-p-0-iso8859-7
+NotoSansDisplay-BlackItalic.ttf -monotype-noto sans display black-black-i-normal--0-0-0-0-p-0-iso8859-9
+NotoSansDisplay-BlackItalic.ttf -monotype-noto sans display black-black-i-normal--0-0-0-0-p-0-koi8-e
+NotoSansDisplay-BlackItalic.ttf -monotype-noto sans display black-black-i-normal--0-0-0-0-p-0-koi8-r
+NotoSansDisplay-BlackItalic.ttf -monotype-noto sans display black-black-i-normal--0-0-0-0-p-0-koi8-ru
+NotoSansDisplay-BlackItalic.ttf -monotype-noto sans display black-black-i-normal--0-0-0-0-p-0-koi8-u
+NotoSansDisplay-BlackItalic.ttf -monotype-noto sans display black-black-i-normal--0-0-0-0-p-0-koi8-uni
+NotoSansDisplay-BlackItalic.ttf -monotype-noto sans display black-black-i-normal--0-0-0-0-p-0-microsoft-cp1252
+NotoSansDisplay-BlackItalic.ttf -monotype-noto sans display black-black-i-normal--0-0-0-0-p-0-suneu-greek
+NotoSansDisplay-Bold.ttf -monotype-noto sans display-bold-r-normal--0-0-0-0-p-0-adobe-standard
+NotoSansDisplay-Bold.ttf -monotype-noto sans display-bold-r-normal--0-0-0-0-p-0-ascii-0
+NotoSansDisplay-Bold.ttf -monotype-noto sans display-bold-r-normal--0-0-0-0-p-0-iso10646-1
+NotoSansDisplay-Bold.ttf -monotype-noto sans display-bold-r-normal--0-0-0-0-p-0-iso8859-1
+NotoSansDisplay-Bold.ttf -monotype-noto sans display-bold-r-normal--0-0-0-0-p-0-iso8859-10
+NotoSansDisplay-Bold.ttf -monotype-noto sans display-bold-r-normal--0-0-0-0-p-0-iso8859-13
+NotoSansDisplay-Bold.ttf -monotype-noto sans display-bold-r-normal--0-0-0-0-p-0-iso8859-15
+NotoSansDisplay-Bold.ttf -monotype-noto sans display-bold-r-normal--0-0-0-0-p-0-iso8859-16
+NotoSansDisplay-Bold.ttf -monotype-noto sans display-bold-r-normal--0-0-0-0-p-0-iso8859-2
+NotoSansDisplay-Bold.ttf -monotype-noto sans display-bold-r-normal--0-0-0-0-p-0-iso8859-3
+NotoSansDisplay-Bold.ttf -monotype-noto sans display-bold-r-normal--0-0-0-0-p-0-iso8859-4
+NotoSansDisplay-Bold.ttf -monotype-noto sans display-bold-r-normal--0-0-0-0-p-0-iso8859-5
+NotoSansDisplay-Bold.ttf -monotype-noto sans display-bold-r-normal--0-0-0-0-p-0-iso8859-7
+NotoSansDisplay-Bold.ttf -monotype-noto sans display-bold-r-normal--0-0-0-0-p-0-iso8859-9
+NotoSansDisplay-Bold.ttf -monotype-noto sans display-bold-r-normal--0-0-0-0-p-0-koi8-e
+NotoSansDisplay-Bold.ttf -monotype-noto sans display-bold-r-normal--0-0-0-0-p-0-koi8-r
+NotoSansDisplay-Bold.ttf -monotype-noto sans display-bold-r-normal--0-0-0-0-p-0-koi8-ru
+NotoSansDisplay-Bold.ttf -monotype-noto sans display-bold-r-normal--0-0-0-0-p-0-koi8-u
+NotoSansDisplay-Bold.ttf -monotype-noto sans display-bold-r-normal--0-0-0-0-p-0-koi8-uni
+NotoSansDisplay-Bold.ttf -monotype-noto sans display-bold-r-normal--0-0-0-0-p-0-microsoft-cp1252
+NotoSansDisplay-Bold.ttf -monotype-noto sans display-bold-r-normal--0-0-0-0-p-0-suneu-greek
+NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display-bold-i-normal--0-0-0-0-p-0-adobe-standard
+NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display-bold-i-normal--0-0-0-0-p-0-ascii-0
+NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display-bold-i-normal--0-0-0-0-p-0-iso10646-1
+NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display-bold-i-normal--0-0-0-0-p-0-iso8859-1
+NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display-bold-i-normal--0-0-0-0-p-0-iso8859-10
+NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display-bold-i-normal--0-0-0-0-p-0-iso8859-13
+NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display-bold-i-normal--0-0-0-0-p-0-iso8859-15
+NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display-bold-i-normal--0-0-0-0-p-0-iso8859-16
+NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display-bold-i-normal--0-0-0-0-p-0-iso8859-2
+NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display-bold-i-normal--0-0-0-0-p-0-iso8859-3
+NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display-bold-i-normal--0-0-0-0-p-0-iso8859-4
+NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display-bold-i-normal--0-0-0-0-p-0-iso8859-5
+NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display-bold-i-normal--0-0-0-0-p-0-iso8859-7
+NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display-bold-i-normal--0-0-0-0-p-0-iso8859-9
+NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display-bold-i-normal--0-0-0-0-p-0-koi8-e
+NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display-bold-i-normal--0-0-0-0-p-0-koi8-r
+NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display-bold-i-normal--0-0-0-0-p-0-koi8-ru
+NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display-bold-i-normal--0-0-0-0-p-0-koi8-u
+NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display-bold-i-normal--0-0-0-0-p-0-koi8-uni
+NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display-bold-i-normal--0-0-0-0-p-0-microsoft-cp1252
+NotoSansDisplay-BoldItalic.ttf -monotype-noto sans display-bold-i-normal--0-0-0-0-p-0-suneu-greek
+NotoSansDisplay-Italic.ttf -monotype-noto sans display-medium-i-normal--0-0-0-0-p-0-adobe-standard
+NotoSansDisplay-Italic.ttf -monotype-noto sans display-medium-i-normal--0-0-0-0-p-0-ascii-0
+NotoSansDisplay-Italic.ttf -monotype-noto sans display-medium-i-normal--0-0-0-0-p-0-iso10646-1
+NotoSansDisplay-Italic.ttf -monotype-noto sans display-medium-i-normal--0-0-0-0-p-0-iso8859-1
+NotoSansDisplay-Italic.ttf -monotype-noto sans display-medium-i-normal--0-0-0-0-p-0-iso8859-10
+NotoSansDisplay-Italic.ttf -monotype-noto sans display-medium-i-normal--0-0-0-0-p-0-iso8859-13
+NotoSansDisplay-Italic.ttf -monotype-noto sans display-medium-i-normal--0-0-0-0-p-0-iso8859-15
+NotoSansDisplay-Italic.ttf -monotype-noto sans display-medium-i-normal--0-0-0-0-p-0-iso8859-16
+NotoSansDisplay-Italic.ttf -monotype-noto sans display-medium-i-normal--0-0-0-0-p-0-iso8859-2
+NotoSansDisplay-Italic.ttf -monotype-noto sans display-medium-i-normal--0-0-0-0-p-0-iso8859-3
+NotoSansDisplay-Italic.ttf -monotype-noto sans display-medium-i-normal--0-0-0-0-p-0-iso8859-4
+NotoSansDisplay-Italic.ttf -monotype-noto sans display-medium-i-normal--0-0-0-0-p-0-iso8859-5
+NotoSansDisplay-Italic.ttf -monotype-noto sans display-medium-i-normal--0-0-0-0-p-0-iso8859-7
+NotoSansDisplay-Italic.ttf -monotype-noto sans display-medium-i-normal--0-0-0-0-p-0-iso8859-9
+NotoSansDisplay-Italic.ttf -monotype-noto sans display-medium-i-normal--0-0-0-0-p-0-koi8-e
+NotoSansDisplay-Italic.ttf -monotype-noto sans display-medium-i-normal--0-0-0-0-p-0-koi8-r
+NotoSansDisplay-Italic.ttf -monotype-noto sans display-medium-i-normal--0-0-0-0-p-0-koi8-ru
+NotoSansDisplay-Italic.ttf -monotype-noto sans display-medium-i-normal--0-0-0-0-p-0-koi8-u
+NotoSansDisplay-Italic.ttf -monotype-noto sans display-medium-i-normal--0-0-0-0-p-0-koi8-uni
+NotoSansDisplay-Italic.ttf -monotype-noto sans display-medium-i-normal--0-0-0-0-p-0-microsoft-cp1252
+NotoSansDisplay-Italic.ttf -monotype-noto sans display-medium-i-normal--0-0-0-0-p-0-suneu-greek
 NotoSansDisplay-Light.ttf -monotype-noto sans display light-light-r-normal--0-0-0-0-p-0-adobe-standard
 NotoSansDisplay-Light.ttf -monotype-noto sans display light-light-r-normal--0-0-0-0-p-0-ascii-0
 NotoSansDisplay-Light.ttf -monotype-noto sans display light-light-r-normal--0-0-0-0-p-0-iso10646-1
@@ -449,27 +532,27 @@ NotoSansDisplay-Light.ttf -monotype-noto sans display light-light-r-normal--0-0-
 NotoSansDisplay-Light.ttf -monotype-noto sans display light-light-r-normal--0-0-0-0-p-0-koi8-uni
 NotoSansDisplay-Light.ttf -monotype-noto sans display light-light-r-normal--0-0-0-0-p-0-microsoft-cp1252
 NotoSansDisplay-Light.ttf -monotype-noto sans display light-light-r-normal--0-0-0-0-p-0-suneu-greek
-NotoSansDisplay-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-adobe-standard
-NotoSansDisplay-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-ascii-0
-NotoSansDisplay-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso10646-1
-NotoSansDisplay-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso8859-1
-NotoSansDisplay-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso8859-10
-NotoSansDisplay-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso8859-13
-NotoSansDisplay-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso8859-15
-NotoSansDisplay-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso8859-16
-NotoSansDisplay-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso8859-2
-NotoSansDisplay-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso8859-3
-NotoSansDisplay-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso8859-4
-NotoSansDisplay-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso8859-5
-NotoSansDisplay-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso8859-7
-NotoSansDisplay-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-iso8859-9
-NotoSansDisplay-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-koi8-e
-NotoSansDisplay-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-koi8-r
-NotoSansDisplay-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-koi8-ru
-NotoSansDisplay-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-koi8-u
-NotoSansDisplay-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-koi8-uni
-NotoSansDisplay-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-microsoft-cp1252
-NotoSansDisplay-LightItalic.ttf -monotype-noto sans light-light-i-normal--0-0-0-0-p-0-suneu-greek
+NotoSansDisplay-LightItalic.ttf -monotype-noto sans display light-light-i-normal--0-0-0-0-p-0-adobe-standard
+NotoSansDisplay-LightItalic.ttf -monotype-noto sans display light-light-i-normal--0-0-0-0-p-0-ascii-0
+NotoSansDisplay-LightItalic.ttf -monotype-noto sans display light-light-i-normal--0-0-0-0-p-0-iso10646-1
+NotoSansDisplay-LightItalic.ttf -monotype-noto sans display light-light-i-normal--0-0-0-0-p-0-iso8859-1
+NotoSansDisplay-LightItalic.ttf -monotype-noto sans display light-light-i-normal--0-0-0-0-p-0-iso8859-10
+NotoSansDisplay-LightItalic.ttf -monotype-noto sans display light-light-i-normal--0-0-0-0-p-0-iso8859-13
+NotoSansDisplay-LightItalic.ttf -monotype-noto sans display light-light-i-normal--0-0-0-0-p-0-iso8859-15
+NotoSansDisplay-LightItalic.ttf -monotype-noto sans display light-light-i-normal--0-0-0-0-p-0-iso8859-16
+NotoSansDisplay-LightItalic.ttf -monotype-noto sans display light-light-i-normal--0-0-0-0-p-0-iso8859-2
+NotoSansDisplay-LightItalic.ttf -monotype-noto sans display light-light-i-normal--0-0-0-0-p-0-iso8859-3
+NotoSansDisplay-LightItalic.ttf -monotype-noto sans display light-light-i-normal--0-0-0-0-p-0-iso8859-4
+NotoSansDisplay-LightItalic.ttf -monotype-noto sans display light-light-i-normal--0-0-0-0-p-0-iso8859-5
+NotoSansDisplay-LightItalic.ttf -monotype-noto sans display light-light-i-normal--0-0-0-0-p-0-iso8859-7
+NotoSansDisplay-LightItalic.ttf -monotype-noto sans display light-light-i-normal--0-0-0-0-p-0-iso8859-9
+NotoSansDisplay-LightItalic.ttf -monotype-noto sans display light-light-i-normal--0-0-0-0-p-0-koi8-e
+NotoSansDisplay-LightItalic.ttf -monotype-noto sans display light-light-i-normal--0-0-0-0-p-0-koi8-r
+NotoSansDisplay-LightItalic.ttf -monotype-noto sans display light-light-i-normal--0-0-0-0-p-0-koi8-ru
+NotoSansDisplay-LightItalic.ttf -monotype-noto sans display light-light-i-normal--0-0-0-0-p-0-koi8-u
+NotoSansDisplay-LightItalic.ttf -monotype-noto sans display light-light-i-normal--0-0-0-0-p-0-koi8-uni
+NotoSansDisplay-LightItalic.ttf -monotype-noto sans display light-light-i-normal--0-0-0-0-p-0-microsoft-cp1252
+NotoSansDisplay-LightItalic.ttf -monotype-noto sans display light-light-i-normal--0-0-0-0-p-0-suneu-greek
 NotoSansDisplay-Medium.ttf -monotype-noto sans display medium-medium-r-normal--0-0-0-0-p-0-adobe-standard
 NotoSansDisplay-Medium.ttf -monotype-noto sans display medium-medium-r-normal--0-0-0-0-p-0-ascii-0
 NotoSansDisplay-Medium.ttf -monotype-noto sans display medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
@@ -491,27 +574,27 @@ NotoSansDisplay-Medium.ttf -monotype-noto sans display medium-medium-r-normal--0
 NotoSansDisplay-Medium.ttf -monotype-noto sans display medium-medium-r-normal--0-0-0-0-p-0-koi8-uni
 NotoSansDisplay-Medium.ttf -monotype-noto sans display medium-medium-r-normal--0-0-0-0-p-0-microsoft-cp1252
 NotoSansDisplay-Medium.ttf -monotype-noto sans display medium-medium-r-normal--0-0-0-0-p-0-suneu-greek
-NotoSansDisplay-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-adobe-standard
-NotoSansDisplay-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-ascii-0
-NotoSansDisplay-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso10646-1
-NotoSansDisplay-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-1
-NotoSansDisplay-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-10
-NotoSansDisplay-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-13
-NotoSansDisplay-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-15
-NotoSansDisplay-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-16
-NotoSansDisplay-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-2
-NotoSansDisplay-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-3
-NotoSansDisplay-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-4
-NotoSansDisplay-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-5
-NotoSansDisplay-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-7
-NotoSansDisplay-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-iso8859-9
-NotoSansDisplay-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-koi8-e
-NotoSansDisplay-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-koi8-r
-NotoSansDisplay-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-koi8-ru
-NotoSansDisplay-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-koi8-u
-NotoSansDisplay-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-koi8-uni
-NotoSansDisplay-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-microsoft-cp1252
-NotoSansDisplay-MediumItalic.ttf -monotype-noto sans medium-medium-i-normal--0-0-0-0-p-0-suneu-greek
+NotoSansDisplay-MediumItalic.ttf -monotype-noto sans display medium-medium-i-normal--0-0-0-0-p-0-adobe-standard
+NotoSansDisplay-MediumItalic.ttf -monotype-noto sans display medium-medium-i-normal--0-0-0-0-p-0-ascii-0
+NotoSansDisplay-MediumItalic.ttf -monotype-noto sans display medium-medium-i-normal--0-0-0-0-p-0-iso10646-1
+NotoSansDisplay-MediumItalic.ttf -monotype-noto sans display medium-medium-i-normal--0-0-0-0-p-0-iso8859-1
+NotoSansDisplay-MediumItalic.ttf -monotype-noto sans display medium-medium-i-normal--0-0-0-0-p-0-iso8859-10
+NotoSansDisplay-MediumItalic.ttf -monotype-noto sans display medium-medium-i-normal--0-0-0-0-p-0-iso8859-13
+NotoSansDisplay-MediumItalic.ttf -monotype-noto sans display medium-medium-i-normal--0-0-0-0-p-0-iso8859-15
+NotoSansDisplay-MediumItalic.ttf -monotype-noto sans display medium-medium-i-normal--0-0-0-0-p-0-iso8859-16
+NotoSansDisplay-MediumItalic.ttf -monotype-noto sans display medium-medium-i-normal--0-0-0-0-p-0-iso8859-2
+NotoSansDisplay-MediumItalic.ttf -monotype-noto sans display medium-medium-i-normal--0-0-0-0-p-0-iso8859-3
+NotoSansDisplay-MediumItalic.ttf -monotype-noto sans display medium-medium-i-normal--0-0-0-0-p-0-iso8859-4
+NotoSansDisplay-MediumItalic.ttf -monotype-noto sans display medium-medium-i-normal--0-0-0-0-p-0-iso8859-5
+NotoSansDisplay-MediumItalic.ttf -monotype-noto sans display medium-medium-i-normal--0-0-0-0-p-0-iso8859-7
+NotoSansDisplay-MediumItalic.ttf -monotype-noto sans display medium-medium-i-normal--0-0-0-0-p-0-iso8859-9
+NotoSansDisplay-MediumItalic.ttf -monotype-noto sans display medium-medium-i-normal--0-0-0-0-p-0-koi8-e
+NotoSansDisplay-MediumItalic.ttf -monotype-noto sans display medium-medium-i-normal--0-0-0-0-p-0-koi8-r
+NotoSansDisplay-MediumItalic.ttf -monotype-noto sans display medium-medium-i-normal--0-0-0-0-p-0-koi8-ru
+NotoSansDisplay-MediumItalic.ttf -monotype-noto sans display medium-medium-i-normal--0-0-0-0-p-0-koi8-u
+NotoSansDisplay-MediumItalic.ttf -monotype-noto sans display medium-medium-i-normal--0-0-0-0-p-0-koi8-uni
+NotoSansDisplay-MediumItalic.ttf -monotype-noto sans display medium-medium-i-normal--0-0-0-0-p-0-microsoft-cp1252
+NotoSansDisplay-MediumItalic.ttf -monotype-noto sans display medium-medium-i-normal--0-0-0-0-p-0-suneu-greek
 NotoSansDisplay-Regular.ttf -monotype-noto sans display-medium-r-normal--0-0-0-0-p-0-adobe-standard
 NotoSansDisplay-Regular.ttf -monotype-noto sans display-medium-r-normal--0-0-0-0-p-0-ascii-0
 NotoSansDisplay-Regular.ttf -monotype-noto sans display-medium-r-normal--0-0-0-0-p-0-iso10646-1
@@ -554,27 +637,27 @@ NotoSansDisplay-Thin.ttf -monotype-noto sans display thin-thin-r-normal--0-0-0-0
 NotoSansDisplay-Thin.ttf -monotype-noto sans display thin-thin-r-normal--0-0-0-0-p-0-koi8-uni
 NotoSansDisplay-Thin.ttf -monotype-noto sans display thin-thin-r-normal--0-0-0-0-p-0-microsoft-cp1252
 NotoSansDisplay-Thin.ttf -monotype-noto sans display thin-thin-r-normal--0-0-0-0-p-0-suneu-greek
-NotoSansDisplay-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-adobe-standard
-NotoSansDisplay-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-ascii-0
-NotoSansDisplay-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso10646-1
-NotoSansDisplay-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso8859-1
-NotoSansDisplay-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso8859-10
-NotoSansDisplay-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso8859-13
-NotoSansDisplay-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso8859-15
-NotoSansDisplay-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso8859-16
-NotoSansDisplay-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso8859-2
-NotoSansDisplay-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso8859-3
-NotoSansDisplay-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso8859-4
-NotoSansDisplay-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso8859-5
-NotoSansDisplay-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso8859-7
-NotoSansDisplay-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-iso8859-9
-NotoSansDisplay-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-koi8-e
-NotoSansDisplay-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-koi8-r
-NotoSansDisplay-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-koi8-ru
-NotoSansDisplay-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-koi8-u
-NotoSansDisplay-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-koi8-uni
-NotoSansDisplay-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-microsoft-cp1252
-NotoSansDisplay-ThinItalic.ttf -monotype-noto sans thin-thin-i-normal--0-0-0-0-p-0-suneu-greek
+NotoSansDisplay-ThinItalic.ttf -monotype-noto sans display thin-thin-i-normal--0-0-0-0-p-0-adobe-standard
+NotoSansDisplay-ThinItalic.ttf -monotype-noto sans display thin-thin-i-normal--0-0-0-0-p-0-ascii-0
+NotoSansDisplay-ThinItalic.ttf -monotype-noto sans display thin-thin-i-normal--0-0-0-0-p-0-iso10646-1
+NotoSansDisplay-ThinItalic.ttf -monotype-noto sans display thin-thin-i-normal--0-0-0-0-p-0-iso8859-1
+NotoSansDisplay-ThinItalic.ttf -monotype-noto sans display thin-thin-i-normal--0-0-0-0-p-0-iso8859-10
+NotoSansDisplay-ThinItalic.ttf -monotype-noto sans display thin-thin-i-normal--0-0-0-0-p-0-iso8859-13
+NotoSansDisplay-ThinItalic.ttf -monotype-noto sans display thin-thin-i-normal--0-0-0-0-p-0-iso8859-15
+NotoSansDisplay-ThinItalic.ttf -monotype-noto sans display thin-thin-i-normal--0-0-0-0-p-0-iso8859-16
+NotoSansDisplay-ThinItalic.ttf -monotype-noto sans display thin-thin-i-normal--0-0-0-0-p-0-iso8859-2
+NotoSansDisplay-ThinItalic.ttf -monotype-noto sans display thin-thin-i-normal--0-0-0-0-p-0-iso8859-3
+NotoSansDisplay-ThinItalic.ttf -monotype-noto sans display thin-thin-i-normal--0-0-0-0-p-0-iso8859-4
+NotoSansDisplay-ThinItalic.ttf -monotype-noto sans display thin-thin-i-normal--0-0-0-0-p-0-iso8859-5
+NotoSansDisplay-ThinItalic.ttf -monotype-noto sans display thin-thin-i-normal--0-0-0-0-p-0-iso8859-7
+NotoSansDisplay-ThinItalic.ttf -monotype-noto sans display thin-thin-i-normal--0-0-0-0-p-0-iso8859-9
+NotoSansDisplay-ThinItalic.ttf -monotype-noto sans display thin-thin-i-normal--0-0-0-0-p-0-koi8-e
+NotoSansDisplay-ThinItalic.ttf -monotype-noto sans display thin-thin-i-normal--0-0-0-0-p-0-koi8-r
+NotoSansDisplay-ThinItalic.ttf -monotype-noto sans display thin-thin-i-normal--0-0-0-0-p-0-koi8-ru
+NotoSansDisplay-ThinItalic.ttf -monotype-noto sans display thin-thin-i-normal--0-0-0-0-p-0-koi8-u
+NotoSansDisplay-ThinItalic.ttf -monotype-noto sans display thin-thin-i-normal--0-0-0-0-p-0-koi8-uni
+NotoSansDisplay-ThinItalic.ttf -monotype-noto sans display thin-thin-i-normal--0-0-0-0-p-0-microsoft-cp1252
+NotoSansDisplay-ThinItalic.ttf -monotype-noto sans display thin-thin-i-normal--0-0-0-0-p-0-suneu-greek
 NotoSansElbasan-Regular.ttf -monotype-noto sans elbasan-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansEthiopic-Black.ttf -monotype-noto sans ethiopic blk-black-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansEthiopic-Bold.ttf -monotype-noto sans ethiopic-bold-r-normal--0-0-0-0-p-0-iso10646-1
@@ -602,10 +685,7 @@ NotoSansGujaratiUI-Light.ttf -monotype-noto sans gujarati ui light-light-r-norma
 NotoSansGujaratiUI-Medium.ttf -monotype-noto sans gujarati ui medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansGujaratiUI-Regular.ttf -monotype-noto sans gujarati ui-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansGujaratiUI-Thin.ttf -monotype-noto sans gujarati ui thin-thin-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansGunjalaGondi-Bold.ttf -misc-noto sans gunjala gondi-bold-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansGunjalaGondi-Medium.ttf -misc-noto sans gunjala gondi medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansGunjalaGondi-Regular.ttf -misc-noto sans gunjala gondi-medium-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansGunjalaGondi-Semibold.ttf -misc-noto sans gunjala gondi semibold-semibold-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansGurmukhi-Black.ttf -monotype-noto sans gurmukhi black-black-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansGurmukhi-Bold.ttf -monotype-noto sans gurmukhi-bold-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansGurmukhi-Light.ttf -monotype-noto sans gurmukhi light-light-r-normal--0-0-0-0-p-0-iso10646-1
@@ -625,15 +705,6 @@ NotoSansHebrew-Light.ttf -misc-noto sans hebrew light-light-r-normal--0-0-0-0-p-
 NotoSansHebrew-Medium.ttf -misc-noto sans hebrew med-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansHebrew-Regular.ttf -misc-noto sans hebrew-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansHebrew-Thin.ttf -misc-noto sans hebrew thin-thin-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansHebrewDroid-Bold.ttf -monotype-noto sans hebrew droid-bold-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansHebrewDroid-Medium.ttf -monotype-noto sans hebrew droid medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansHebrewDroid-Regular.ttf -monotype-noto sans hebrew droid-medium-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansHebrewNew-Black.ttf -misc-noto sans hebrew new blk-black-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansHebrewNew-Bold.ttf -misc-noto sans hebrew new bold-bold-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansHebrewNew-Light.ttf -misc-noto sans hebrew new light-light-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansHebrewNew-Medium.ttf -misc-noto sans hebrew new med-medium-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansHebrewNew-Regular.ttf -misc-noto sans hebrew new-medium-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansHebrewNew-Thin.ttf -misc-noto sans hebrew new thin-thin-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansIndicSiyaqNumbers-Regular.ttf -monotype-noto sans indic siyaq numbers-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansJavanese-Bold.ttf -monotype-noto sans javanese-bold-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansJavanese-Regular.ttf -monotype-noto sans javanese-medium-r-normal--0-0-0-0-p-0-iso10646-1
@@ -707,154 +778,154 @@ NotoSansMeeteiMayek-Medium.ttf -monotype-noto sans meeteimayek medium-medium-r-n
 NotoSansMeeteiMayek-Regular.ttf -monotype-noto sans meeteimayek-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansMeeteiMayek-Thin.ttf -monotype-noto sans meeteimayek thin-thin-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansMongolian-Regular.ttf -monotype-noto sans mongolian-medium-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-ascii-0
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-ibm-cp437
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-ibm-cp850
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-ibm-cp852
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-ibm-cp866
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-iso8859-1
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-iso8859-10
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-iso8859-13
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-iso8859-15
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-iso8859-16
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-iso8859-2
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-iso8859-3
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-iso8859-4
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-iso8859-5
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-iso8859-7
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-iso8859-9
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-koi8-e
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-koi8-r
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-koi8-ru
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-koi8-u
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-koi8-uni
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-microsoft-cp1252
-NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-p-0-suneu-greek
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-ascii-0
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-ibm-cp437
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-ibm-cp850
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-ibm-cp852
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-ibm-cp866
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-iso8859-1
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-iso8859-10
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-iso8859-13
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-iso8859-15
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-iso8859-16
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-iso8859-2
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-iso8859-3
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-iso8859-4
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-iso8859-5
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-iso8859-7
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-iso8859-9
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-koi8-e
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-koi8-r
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-koi8-ru
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-koi8-u
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-koi8-uni
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-microsoft-cp1252
-NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-p-0-suneu-greek
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-ascii-0
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-ibm-cp437
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-ibm-cp850
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-ibm-cp852
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-ibm-cp866
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-iso8859-1
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-iso8859-10
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-iso8859-13
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-iso8859-15
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-iso8859-16
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-iso8859-2
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-iso8859-3
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-iso8859-4
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-iso8859-5
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-iso8859-7
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-iso8859-9
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-koi8-e
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-koi8-r
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-koi8-ru
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-koi8-u
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-koi8-uni
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-microsoft-cp1252
-NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-p-0-suneu-greek
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-ascii-0
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-ibm-cp437
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-ibm-cp850
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-ibm-cp852
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-ibm-cp866
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-iso8859-1
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-iso8859-10
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-iso8859-13
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-iso8859-15
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-iso8859-16
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-iso8859-2
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-iso8859-3
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-iso8859-4
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-iso8859-5
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-iso8859-7
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-iso8859-9
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-koi8-e
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-koi8-r
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-koi8-ru
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-koi8-u
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-koi8-uni
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-microsoft-cp1252
-NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-p-0-suneu-greek
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-ascii-0
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-ibm-cp437
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-ibm-cp850
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-ibm-cp852
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-ibm-cp866
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-iso8859-1
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-iso8859-10
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-iso8859-13
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-iso8859-15
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-iso8859-16
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-iso8859-2
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-iso8859-3
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-iso8859-4
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-iso8859-5
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-iso8859-7
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-iso8859-9
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-koi8-e
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-koi8-r
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-koi8-ru
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-koi8-u
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-koi8-uni
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-microsoft-cp1252
-NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-p-0-suneu-greek
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-ascii-0
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-ibm-cp437
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-ibm-cp850
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-ibm-cp852
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-ibm-cp866
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-iso8859-1
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-iso8859-10
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-iso8859-13
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-iso8859-15
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-iso8859-16
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-iso8859-2
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-iso8859-3
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-iso8859-4
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-iso8859-5
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-iso8859-7
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-iso8859-9
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-koi8-e
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-koi8-r
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-koi8-ru
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-koi8-u
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-koi8-uni
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-microsoft-cp1252
-NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-p-0-suneu-greek
-NotoSansMyanmar-Black.ttf -monotype-noto sans myanmar black-black-r-normal--0-0-0-0-p-0-iso10646-1
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-ascii-0
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-ibm-cp437
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-ibm-cp850
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-ibm-cp852
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-ibm-cp866
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-iso10646-1
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-iso8859-1
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-iso8859-10
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-iso8859-13
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-iso8859-15
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-iso8859-16
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-iso8859-2
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-iso8859-3
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-iso8859-4
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-iso8859-5
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-iso8859-7
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-iso8859-9
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-koi8-e
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-koi8-r
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-koi8-ru
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-koi8-u
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-koi8-uni
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-microsoft-cp1252
+NotoSansMono-Black.ttf -monotype-noto sans mono black-black-r-normal--0-0-0-0-m-0-suneu-greek
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-ascii-0
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-ibm-cp437
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-ibm-cp850
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-ibm-cp852
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-ibm-cp866
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-iso10646-1
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-iso8859-1
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-iso8859-10
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-iso8859-13
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-iso8859-15
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-iso8859-16
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-iso8859-2
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-iso8859-3
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-iso8859-4
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-iso8859-5
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-iso8859-7
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-iso8859-9
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-koi8-e
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-koi8-r
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-koi8-ru
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-koi8-u
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-koi8-uni
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-microsoft-cp1252
+NotoSansMono-Bold.ttf -monotype-noto sans mono-bold-r-normal--0-0-0-0-m-0-suneu-greek
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-ascii-0
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-ibm-cp437
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-ibm-cp850
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-ibm-cp852
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-ibm-cp866
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-iso10646-1
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-iso8859-1
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-iso8859-10
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-iso8859-13
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-iso8859-15
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-iso8859-16
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-iso8859-2
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-iso8859-3
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-iso8859-4
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-iso8859-5
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-iso8859-7
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-iso8859-9
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-koi8-e
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-koi8-r
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-koi8-ru
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-koi8-u
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-koi8-uni
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-microsoft-cp1252
+NotoSansMono-Light.ttf -monotype-noto sans mono light-light-r-normal--0-0-0-0-m-0-suneu-greek
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-ascii-0
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-ibm-cp437
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-ibm-cp850
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-ibm-cp852
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-ibm-cp866
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-iso10646-1
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-iso8859-1
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-iso8859-10
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-iso8859-13
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-iso8859-15
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-iso8859-16
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-iso8859-2
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-iso8859-3
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-iso8859-4
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-iso8859-5
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-iso8859-7
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-iso8859-9
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-koi8-e
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-koi8-r
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-koi8-ru
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-koi8-u
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-koi8-uni
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-microsoft-cp1252
+NotoSansMono-Medium.ttf -monotype-noto sans mono medium-medium-r-normal--0-0-0-0-m-0-suneu-greek
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-ascii-0
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-ibm-cp437
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-ibm-cp850
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-ibm-cp852
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-ibm-cp866
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-iso10646-1
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-iso8859-1
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-iso8859-10
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-iso8859-13
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-iso8859-15
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-iso8859-16
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-iso8859-2
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-iso8859-3
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-iso8859-4
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-iso8859-5
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-iso8859-7
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-iso8859-9
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-koi8-e
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-koi8-r
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-koi8-ru
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-koi8-u
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-koi8-uni
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-microsoft-cp1252
+NotoSansMono-Regular.ttf -monotype-noto sans mono-medium-r-normal--0-0-0-0-m-0-suneu-greek
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-ascii-0
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-ibm-cp437
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-ibm-cp850
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-ibm-cp852
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-ibm-cp866
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-iso10646-1
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-iso8859-1
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-iso8859-10
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-iso8859-13
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-iso8859-15
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-iso8859-16
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-iso8859-2
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-iso8859-3
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-iso8859-4
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-iso8859-5
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-iso8859-7
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-iso8859-9
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-koi8-e
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-koi8-r
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-koi8-ru
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-koi8-u
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-koi8-uni
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-microsoft-cp1252
+NotoSansMono-Thin.ttf -monotype-noto sans mono thin-thin-r-normal--0-0-0-0-m-0-suneu-greek
+NotoSansMyanmar-Black.ttf -monotype-noto sans myanmar blk-black-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansMyanmar-Bold.ttf -monotype-noto sans myanmar-bold-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansMyanmar-Light.ttf -monotype-noto sans myanmar light-light-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansMyanmar-Medium.ttf -monotype-noto sans myanmar medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
+NotoSansMyanmar-Medium.ttf -monotype-noto sans myanmar med-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansMyanmar-Regular.ttf -monotype-noto sans myanmar-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansMyanmar-Thin.ttf -monotype-noto sans myanmar thin-thin-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansMyanmarUI-Black.ttf -monotype-noto sans myanmar ui black-black-r-normal--0-0-0-0-p-0-iso10646-1
@@ -864,7 +935,6 @@ NotoSansMyanmarUI-Medium.ttf -monotype-noto sans myanmar ui medium-medium-r-norm
 NotoSansMyanmarUI-Regular.ttf -monotype-noto sans myanmar ui-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansMyanmarUI-Thin.ttf -monotype-noto sans myanmar ui thin-thin-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansNKo-Regular.ttf -monotype-noto sans nko-medium-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansNandinagari-Regular.ttf -misc-noto sans nandinagari-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansNewTaiLue-Regular.ttf -monotype-noto sans newtailue-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansOgham-Regular.ttf -monotype-noto sans ogham-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansOlChiki-Bold.ttf -monotype-noto sans ol chiki-bold-r-normal--0-0-0-0-p-0-iso10646-1
@@ -972,9 +1042,6 @@ NotoSansTifinaghSIL-Regular.ttf -misc-noto sans tifinagh sil-medium-r-normal--0-
 NotoSansTifinaghTawellemmet-Regular.ttf -misc-noto sans tifinagh tawellemmet-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansTirhuta-Regular.ttf -monotype-noto sans tirhuta-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansVai-Regular.ttf -monotype-noto sans vai-medium-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansVithkuqi-Bold.ttf -misc-noto sans vithkuqi-bold-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansVithkuqi-Medium.ttf -misc-noto sans vithkuqi medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSansVithkuqi-Regular.ttf -misc-noto sans vithkuqi-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansWancho-Regular.ttf -monotype-noto sans wancho-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSansYi-Regular.ttf -monotype-noto sans yi-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerif-Black.ttf -monotype-noto serif black-black-r-normal--0-0-0-0-p-0-adobe-standard
@@ -1019,69 +1086,69 @@ NotoSerif-BlackItalic.ttf -monotype-noto serif black-black-i-normal--0-0-0-0-p-0
 NotoSerif-BlackItalic.ttf -monotype-noto serif black-black-i-normal--0-0-0-0-p-0-koi8-uni
 NotoSerif-BlackItalic.ttf -monotype-noto serif black-black-i-normal--0-0-0-0-p-0-microsoft-cp1252
 NotoSerif-BlackItalic.ttf -monotype-noto serif black-black-i-normal--0-0-0-0-p-0-suneu-greek
-NotoSerif-Bold.ttf -monotype-noto serif bold-bold-r-normal--0-0-0-0-p-0-adobe-standard
-NotoSerif-Bold.ttf -monotype-noto serif bold-bold-r-normal--0-0-0-0-p-0-ascii-0
-NotoSerif-Bold.ttf -monotype-noto serif bold-bold-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSerif-Bold.ttf -monotype-noto serif bold-bold-r-normal--0-0-0-0-p-0-iso8859-1
-NotoSerif-Bold.ttf -monotype-noto serif bold-bold-r-normal--0-0-0-0-p-0-iso8859-10
-NotoSerif-Bold.ttf -monotype-noto serif bold-bold-r-normal--0-0-0-0-p-0-iso8859-13
-NotoSerif-Bold.ttf -monotype-noto serif bold-bold-r-normal--0-0-0-0-p-0-iso8859-15
-NotoSerif-Bold.ttf -monotype-noto serif bold-bold-r-normal--0-0-0-0-p-0-iso8859-16
-NotoSerif-Bold.ttf -monotype-noto serif bold-bold-r-normal--0-0-0-0-p-0-iso8859-2
-NotoSerif-Bold.ttf -monotype-noto serif bold-bold-r-normal--0-0-0-0-p-0-iso8859-3
-NotoSerif-Bold.ttf -monotype-noto serif bold-bold-r-normal--0-0-0-0-p-0-iso8859-4
-NotoSerif-Bold.ttf -monotype-noto serif bold-bold-r-normal--0-0-0-0-p-0-iso8859-5
-NotoSerif-Bold.ttf -monotype-noto serif bold-bold-r-normal--0-0-0-0-p-0-iso8859-7
-NotoSerif-Bold.ttf -monotype-noto serif bold-bold-r-normal--0-0-0-0-p-0-iso8859-9
-NotoSerif-Bold.ttf -monotype-noto serif bold-bold-r-normal--0-0-0-0-p-0-koi8-e
-NotoSerif-Bold.ttf -monotype-noto serif bold-bold-r-normal--0-0-0-0-p-0-koi8-r
-NotoSerif-Bold.ttf -monotype-noto serif bold-bold-r-normal--0-0-0-0-p-0-koi8-ru
-NotoSerif-Bold.ttf -monotype-noto serif bold-bold-r-normal--0-0-0-0-p-0-koi8-u
-NotoSerif-Bold.ttf -monotype-noto serif bold-bold-r-normal--0-0-0-0-p-0-koi8-uni
-NotoSerif-Bold.ttf -monotype-noto serif bold-bold-r-normal--0-0-0-0-p-0-microsoft-cp1252
-NotoSerif-Bold.ttf -monotype-noto serif bold-bold-r-normal--0-0-0-0-p-0-suneu-greek
-NotoSerif-BoldItalic.ttf -monotype-noto serif bold italic-bold-r-normal--0-0-0-0-p-0-adobe-standard
-NotoSerif-BoldItalic.ttf -monotype-noto serif bold italic-bold-r-normal--0-0-0-0-p-0-ascii-0
-NotoSerif-BoldItalic.ttf -monotype-noto serif bold italic-bold-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSerif-BoldItalic.ttf -monotype-noto serif bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-1
-NotoSerif-BoldItalic.ttf -monotype-noto serif bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-10
-NotoSerif-BoldItalic.ttf -monotype-noto serif bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-13
-NotoSerif-BoldItalic.ttf -monotype-noto serif bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-15
-NotoSerif-BoldItalic.ttf -monotype-noto serif bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-16
-NotoSerif-BoldItalic.ttf -monotype-noto serif bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-2
-NotoSerif-BoldItalic.ttf -monotype-noto serif bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-3
-NotoSerif-BoldItalic.ttf -monotype-noto serif bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-4
-NotoSerif-BoldItalic.ttf -monotype-noto serif bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-5
-NotoSerif-BoldItalic.ttf -monotype-noto serif bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-7
-NotoSerif-BoldItalic.ttf -monotype-noto serif bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-9
-NotoSerif-BoldItalic.ttf -monotype-noto serif bold italic-bold-r-normal--0-0-0-0-p-0-koi8-e
-NotoSerif-BoldItalic.ttf -monotype-noto serif bold italic-bold-r-normal--0-0-0-0-p-0-koi8-r
-NotoSerif-BoldItalic.ttf -monotype-noto serif bold italic-bold-r-normal--0-0-0-0-p-0-koi8-ru
-NotoSerif-BoldItalic.ttf -monotype-noto serif bold italic-bold-r-normal--0-0-0-0-p-0-koi8-u
-NotoSerif-BoldItalic.ttf -monotype-noto serif bold italic-bold-r-normal--0-0-0-0-p-0-koi8-uni
-NotoSerif-BoldItalic.ttf -monotype-noto serif bold italic-bold-r-normal--0-0-0-0-p-0-microsoft-cp1252
-NotoSerif-BoldItalic.ttf -monotype-noto serif bold italic-bold-r-normal--0-0-0-0-p-0-suneu-greek
-NotoSerif-Italic.ttf -monotype-noto serif italic-medium-r-normal--0-0-0-0-p-0-adobe-standard
-NotoSerif-Italic.ttf -monotype-noto serif italic-medium-r-normal--0-0-0-0-p-0-ascii-0
-NotoSerif-Italic.ttf -monotype-noto serif italic-medium-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSerif-Italic.ttf -monotype-noto serif italic-medium-r-normal--0-0-0-0-p-0-iso8859-1
-NotoSerif-Italic.ttf -monotype-noto serif italic-medium-r-normal--0-0-0-0-p-0-iso8859-10
-NotoSerif-Italic.ttf -monotype-noto serif italic-medium-r-normal--0-0-0-0-p-0-iso8859-13
-NotoSerif-Italic.ttf -monotype-noto serif italic-medium-r-normal--0-0-0-0-p-0-iso8859-15
-NotoSerif-Italic.ttf -monotype-noto serif italic-medium-r-normal--0-0-0-0-p-0-iso8859-16
-NotoSerif-Italic.ttf -monotype-noto serif italic-medium-r-normal--0-0-0-0-p-0-iso8859-2
-NotoSerif-Italic.ttf -monotype-noto serif italic-medium-r-normal--0-0-0-0-p-0-iso8859-3
-NotoSerif-Italic.ttf -monotype-noto serif italic-medium-r-normal--0-0-0-0-p-0-iso8859-4
-NotoSerif-Italic.ttf -monotype-noto serif italic-medium-r-normal--0-0-0-0-p-0-iso8859-5
-NotoSerif-Italic.ttf -monotype-noto serif italic-medium-r-normal--0-0-0-0-p-0-iso8859-7
-NotoSerif-Italic.ttf -monotype-noto serif italic-medium-r-normal--0-0-0-0-p-0-iso8859-9
-NotoSerif-Italic.ttf -monotype-noto serif italic-medium-r-normal--0-0-0-0-p-0-koi8-e
-NotoSerif-Italic.ttf -monotype-noto serif italic-medium-r-normal--0-0-0-0-p-0-koi8-r
-NotoSerif-Italic.ttf -monotype-noto serif italic-medium-r-normal--0-0-0-0-p-0-koi8-ru
-NotoSerif-Italic.ttf -monotype-noto serif italic-medium-r-normal--0-0-0-0-p-0-koi8-u
-NotoSerif-Italic.ttf -monotype-noto serif italic-medium-r-normal--0-0-0-0-p-0-koi8-uni
-NotoSerif-Italic.ttf -monotype-noto serif italic-medium-r-normal--0-0-0-0-p-0-microsoft-cp1252
-NotoSerif-Italic.ttf -monotype-noto serif italic-medium-r-normal--0-0-0-0-p-0-suneu-greek
+NotoSerif-Bold.ttf -monotype-noto serif-bold-r-normal--0-0-0-0-p-0-adobe-standard
+NotoSerif-Bold.ttf -monotype-noto serif-bold-r-normal--0-0-0-0-p-0-ascii-0
+NotoSerif-Bold.ttf -monotype-noto serif-bold-r-normal--0-0-0-0-p-0-iso10646-1
+NotoSerif-Bold.ttf -monotype-noto serif-bold-r-normal--0-0-0-0-p-0-iso8859-1
+NotoSerif-Bold.ttf -monotype-noto serif-bold-r-normal--0-0-0-0-p-0-iso8859-10
+NotoSerif-Bold.ttf -monotype-noto serif-bold-r-normal--0-0-0-0-p-0-iso8859-13
+NotoSerif-Bold.ttf -monotype-noto serif-bold-r-normal--0-0-0-0-p-0-iso8859-15
+NotoSerif-Bold.ttf -monotype-noto serif-bold-r-normal--0-0-0-0-p-0-iso8859-16
+NotoSerif-Bold.ttf -monotype-noto serif-bold-r-normal--0-0-0-0-p-0-iso8859-2
+NotoSerif-Bold.ttf -monotype-noto serif-bold-r-normal--0-0-0-0-p-0-iso8859-3
+NotoSerif-Bold.ttf -monotype-noto serif-bold-r-normal--0-0-0-0-p-0-iso8859-4
+NotoSerif-Bold.ttf -monotype-noto serif-bold-r-normal--0-0-0-0-p-0-iso8859-5
+NotoSerif-Bold.ttf -monotype-noto serif-bold-r-normal--0-0-0-0-p-0-iso8859-7
+NotoSerif-Bold.ttf -monotype-noto serif-bold-r-normal--0-0-0-0-p-0-iso8859-9
+NotoSerif-Bold.ttf -monotype-noto serif-bold-r-normal--0-0-0-0-p-0-koi8-e
+NotoSerif-Bold.ttf -monotype-noto serif-bold-r-normal--0-0-0-0-p-0-koi8-r
+NotoSerif-Bold.ttf -monotype-noto serif-bold-r-normal--0-0-0-0-p-0-koi8-ru
+NotoSerif-Bold.ttf -monotype-noto serif-bold-r-normal--0-0-0-0-p-0-koi8-u
+NotoSerif-Bold.ttf -monotype-noto serif-bold-r-normal--0-0-0-0-p-0-koi8-uni
+NotoSerif-Bold.ttf -monotype-noto serif-bold-r-normal--0-0-0-0-p-0-microsoft-cp1252
+NotoSerif-Bold.ttf -monotype-noto serif-bold-r-normal--0-0-0-0-p-0-suneu-greek
+NotoSerif-BoldItalic.ttf -monotype-noto serif-bold-i-normal--0-0-0-0-p-0-adobe-standard
+NotoSerif-BoldItalic.ttf -monotype-noto serif-bold-i-normal--0-0-0-0-p-0-ascii-0
+NotoSerif-BoldItalic.ttf -monotype-noto serif-bold-i-normal--0-0-0-0-p-0-iso10646-1
+NotoSerif-BoldItalic.ttf -monotype-noto serif-bold-i-normal--0-0-0-0-p-0-iso8859-1
+NotoSerif-BoldItalic.ttf -monotype-noto serif-bold-i-normal--0-0-0-0-p-0-iso8859-10
+NotoSerif-BoldItalic.ttf -monotype-noto serif-bold-i-normal--0-0-0-0-p-0-iso8859-13
+NotoSerif-BoldItalic.ttf -monotype-noto serif-bold-i-normal--0-0-0-0-p-0-iso8859-15
+NotoSerif-BoldItalic.ttf -monotype-noto serif-bold-i-normal--0-0-0-0-p-0-iso8859-16
+NotoSerif-BoldItalic.ttf -monotype-noto serif-bold-i-normal--0-0-0-0-p-0-iso8859-2
+NotoSerif-BoldItalic.ttf -monotype-noto serif-bold-i-normal--0-0-0-0-p-0-iso8859-3
+NotoSerif-BoldItalic.ttf -monotype-noto serif-bold-i-normal--0-0-0-0-p-0-iso8859-4
+NotoSerif-BoldItalic.ttf -monotype-noto serif-bold-i-normal--0-0-0-0-p-0-iso8859-5
+NotoSerif-BoldItalic.ttf -monotype-noto serif-bold-i-normal--0-0-0-0-p-0-iso8859-7
+NotoSerif-BoldItalic.ttf -monotype-noto serif-bold-i-normal--0-0-0-0-p-0-iso8859-9
+NotoSerif-BoldItalic.ttf -monotype-noto serif-bold-i-normal--0-0-0-0-p-0-koi8-e
+NotoSerif-BoldItalic.ttf -monotype-noto serif-bold-i-normal--0-0-0-0-p-0-koi8-r
+NotoSerif-BoldItalic.ttf -monotype-noto serif-bold-i-normal--0-0-0-0-p-0-koi8-ru
+NotoSerif-BoldItalic.ttf -monotype-noto serif-bold-i-normal--0-0-0-0-p-0-koi8-u
+NotoSerif-BoldItalic.ttf -monotype-noto serif-bold-i-normal--0-0-0-0-p-0-koi8-uni
+NotoSerif-BoldItalic.ttf -monotype-noto serif-bold-i-normal--0-0-0-0-p-0-microsoft-cp1252
+NotoSerif-BoldItalic.ttf -monotype-noto serif-bold-i-normal--0-0-0-0-p-0-suneu-greek
+NotoSerif-Italic.ttf -monotype-noto serif-medium-i-normal--0-0-0-0-p-0-adobe-standard
+NotoSerif-Italic.ttf -monotype-noto serif-medium-i-normal--0-0-0-0-p-0-ascii-0
+NotoSerif-Italic.ttf -monotype-noto serif-medium-i-normal--0-0-0-0-p-0-iso10646-1
+NotoSerif-Italic.ttf -monotype-noto serif-medium-i-normal--0-0-0-0-p-0-iso8859-1
+NotoSerif-Italic.ttf -monotype-noto serif-medium-i-normal--0-0-0-0-p-0-iso8859-10
+NotoSerif-Italic.ttf -monotype-noto serif-medium-i-normal--0-0-0-0-p-0-iso8859-13
+NotoSerif-Italic.ttf -monotype-noto serif-medium-i-normal--0-0-0-0-p-0-iso8859-15
+NotoSerif-Italic.ttf -monotype-noto serif-medium-i-normal--0-0-0-0-p-0-iso8859-16
+NotoSerif-Italic.ttf -monotype-noto serif-medium-i-normal--0-0-0-0-p-0-iso8859-2
+NotoSerif-Italic.ttf -monotype-noto serif-medium-i-normal--0-0-0-0-p-0-iso8859-3
+NotoSerif-Italic.ttf -monotype-noto serif-medium-i-normal--0-0-0-0-p-0-iso8859-4
+NotoSerif-Italic.ttf -monotype-noto serif-medium-i-normal--0-0-0-0-p-0-iso8859-5
+NotoSerif-Italic.ttf -monotype-noto serif-medium-i-normal--0-0-0-0-p-0-iso8859-7
+NotoSerif-Italic.ttf -monotype-noto serif-medium-i-normal--0-0-0-0-p-0-iso8859-9
+NotoSerif-Italic.ttf -monotype-noto serif-medium-i-normal--0-0-0-0-p-0-koi8-e
+NotoSerif-Italic.ttf -monotype-noto serif-medium-i-normal--0-0-0-0-p-0-koi8-r
+NotoSerif-Italic.ttf -monotype-noto serif-medium-i-normal--0-0-0-0-p-0-koi8-ru
+NotoSerif-Italic.ttf -monotype-noto serif-medium-i-normal--0-0-0-0-p-0-koi8-u
+NotoSerif-Italic.ttf -monotype-noto serif-medium-i-normal--0-0-0-0-p-0-koi8-uni
+NotoSerif-Italic.ttf -monotype-noto serif-medium-i-normal--0-0-0-0-p-0-microsoft-cp1252
+NotoSerif-Italic.ttf -monotype-noto serif-medium-i-normal--0-0-0-0-p-0-suneu-greek
 NotoSerif-Light.ttf -monotype-noto serif light-light-r-normal--0-0-0-0-p-0-adobe-standard
 NotoSerif-Light.ttf -monotype-noto serif light-light-r-normal--0-0-0-0-p-0-ascii-0
 NotoSerif-Light.ttf -monotype-noto serif light-light-r-normal--0-0-0-0-p-0-iso10646-1
@@ -1290,69 +1357,69 @@ NotoSerifDisplay-BlackItalic.ttf -monotype-noto serif display black-black-i-norm
 NotoSerifDisplay-BlackItalic.ttf -monotype-noto serif display black-black-i-normal--0-0-0-0-p-0-koi8-uni
 NotoSerifDisplay-BlackItalic.ttf -monotype-noto serif display black-black-i-normal--0-0-0-0-p-0-microsoft-cp1252
 NotoSerifDisplay-BlackItalic.ttf -monotype-noto serif display black-black-i-normal--0-0-0-0-p-0-suneu-greek
-NotoSerifDisplay-Bold.ttf -monotype-noto serif display bold-bold-r-normal--0-0-0-0-p-0-adobe-standard
-NotoSerifDisplay-Bold.ttf -monotype-noto serif display bold-bold-r-normal--0-0-0-0-p-0-ascii-0
-NotoSerifDisplay-Bold.ttf -monotype-noto serif display bold-bold-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSerifDisplay-Bold.ttf -monotype-noto serif display bold-bold-r-normal--0-0-0-0-p-0-iso8859-1
-NotoSerifDisplay-Bold.ttf -monotype-noto serif display bold-bold-r-normal--0-0-0-0-p-0-iso8859-10
-NotoSerifDisplay-Bold.ttf -monotype-noto serif display bold-bold-r-normal--0-0-0-0-p-0-iso8859-13
-NotoSerifDisplay-Bold.ttf -monotype-noto serif display bold-bold-r-normal--0-0-0-0-p-0-iso8859-15
-NotoSerifDisplay-Bold.ttf -monotype-noto serif display bold-bold-r-normal--0-0-0-0-p-0-iso8859-16
-NotoSerifDisplay-Bold.ttf -monotype-noto serif display bold-bold-r-normal--0-0-0-0-p-0-iso8859-2
-NotoSerifDisplay-Bold.ttf -monotype-noto serif display bold-bold-r-normal--0-0-0-0-p-0-iso8859-3
-NotoSerifDisplay-Bold.ttf -monotype-noto serif display bold-bold-r-normal--0-0-0-0-p-0-iso8859-4
-NotoSerifDisplay-Bold.ttf -monotype-noto serif display bold-bold-r-normal--0-0-0-0-p-0-iso8859-5
-NotoSerifDisplay-Bold.ttf -monotype-noto serif display bold-bold-r-normal--0-0-0-0-p-0-iso8859-7
-NotoSerifDisplay-Bold.ttf -monotype-noto serif display bold-bold-r-normal--0-0-0-0-p-0-iso8859-9
-NotoSerifDisplay-Bold.ttf -monotype-noto serif display bold-bold-r-normal--0-0-0-0-p-0-koi8-e
-NotoSerifDisplay-Bold.ttf -monotype-noto serif display bold-bold-r-normal--0-0-0-0-p-0-koi8-r
-NotoSerifDisplay-Bold.ttf -monotype-noto serif display bold-bold-r-normal--0-0-0-0-p-0-koi8-ru
-NotoSerifDisplay-Bold.ttf -monotype-noto serif display bold-bold-r-normal--0-0-0-0-p-0-koi8-u
-NotoSerifDisplay-Bold.ttf -monotype-noto serif display bold-bold-r-normal--0-0-0-0-p-0-koi8-uni
-NotoSerifDisplay-Bold.ttf -monotype-noto serif display bold-bold-r-normal--0-0-0-0-p-0-microsoft-cp1252
-NotoSerifDisplay-Bold.ttf -monotype-noto serif display bold-bold-r-normal--0-0-0-0-p-0-suneu-greek
-NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display bold italic-bold-r-normal--0-0-0-0-p-0-adobe-standard
-NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display bold italic-bold-r-normal--0-0-0-0-p-0-ascii-0
-NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display bold italic-bold-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-1
-NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-10
-NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-13
-NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-15
-NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-16
-NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-2
-NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-3
-NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-4
-NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-5
-NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-7
-NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display bold italic-bold-r-normal--0-0-0-0-p-0-iso8859-9
-NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display bold italic-bold-r-normal--0-0-0-0-p-0-koi8-e
-NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display bold italic-bold-r-normal--0-0-0-0-p-0-koi8-r
-NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display bold italic-bold-r-normal--0-0-0-0-p-0-koi8-ru
-NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display bold italic-bold-r-normal--0-0-0-0-p-0-koi8-u
-NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display bold italic-bold-r-normal--0-0-0-0-p-0-koi8-uni
-NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display bold italic-bold-r-normal--0-0-0-0-p-0-microsoft-cp1252
-NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display bold italic-bold-r-normal--0-0-0-0-p-0-suneu-greek
-NotoSerifDisplay-Italic.ttf -monotype-noto serif display italic-medium-r-normal--0-0-0-0-p-0-adobe-standard
-NotoSerifDisplay-Italic.ttf -monotype-noto serif display italic-medium-r-normal--0-0-0-0-p-0-ascii-0
-NotoSerifDisplay-Italic.ttf -monotype-noto serif display italic-medium-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSerifDisplay-Italic.ttf -monotype-noto serif display italic-medium-r-normal--0-0-0-0-p-0-iso8859-1
-NotoSerifDisplay-Italic.ttf -monotype-noto serif display italic-medium-r-normal--0-0-0-0-p-0-iso8859-10
-NotoSerifDisplay-Italic.ttf -monotype-noto serif display italic-medium-r-normal--0-0-0-0-p-0-iso8859-13
-NotoSerifDisplay-Italic.ttf -monotype-noto serif display italic-medium-r-normal--0-0-0-0-p-0-iso8859-15
-NotoSerifDisplay-Italic.ttf -monotype-noto serif display italic-medium-r-normal--0-0-0-0-p-0-iso8859-16
-NotoSerifDisplay-Italic.ttf -monotype-noto serif display italic-medium-r-normal--0-0-0-0-p-0-iso8859-2
-NotoSerifDisplay-Italic.ttf -monotype-noto serif display italic-medium-r-normal--0-0-0-0-p-0-iso8859-3
-NotoSerifDisplay-Italic.ttf -monotype-noto serif display italic-medium-r-normal--0-0-0-0-p-0-iso8859-4
-NotoSerifDisplay-Italic.ttf -monotype-noto serif display italic-medium-r-normal--0-0-0-0-p-0-iso8859-5
-NotoSerifDisplay-Italic.ttf -monotype-noto serif display italic-medium-r-normal--0-0-0-0-p-0-iso8859-7
-NotoSerifDisplay-Italic.ttf -monotype-noto serif display italic-medium-r-normal--0-0-0-0-p-0-iso8859-9
-NotoSerifDisplay-Italic.ttf -monotype-noto serif display italic-medium-r-normal--0-0-0-0-p-0-koi8-e
-NotoSerifDisplay-Italic.ttf -monotype-noto serif display italic-medium-r-normal--0-0-0-0-p-0-koi8-r
-NotoSerifDisplay-Italic.ttf -monotype-noto serif display italic-medium-r-normal--0-0-0-0-p-0-koi8-ru
-NotoSerifDisplay-Italic.ttf -monotype-noto serif display italic-medium-r-normal--0-0-0-0-p-0-koi8-u
-NotoSerifDisplay-Italic.ttf -monotype-noto serif display italic-medium-r-normal--0-0-0-0-p-0-koi8-uni
-NotoSerifDisplay-Italic.ttf -monotype-noto serif display italic-medium-r-normal--0-0-0-0-p-0-microsoft-cp1252
-NotoSerifDisplay-Italic.ttf -monotype-noto serif display italic-medium-r-normal--0-0-0-0-p-0-suneu-greek
+NotoSerifDisplay-Bold.ttf -monotype-noto serif display-bold-r-normal--0-0-0-0-p-0-adobe-standard
+NotoSerifDisplay-Bold.ttf -monotype-noto serif display-bold-r-normal--0-0-0-0-p-0-ascii-0
+NotoSerifDisplay-Bold.ttf -monotype-noto serif display-bold-r-normal--0-0-0-0-p-0-iso10646-1
+NotoSerifDisplay-Bold.ttf -monotype-noto serif display-bold-r-normal--0-0-0-0-p-0-iso8859-1
+NotoSerifDisplay-Bold.ttf -monotype-noto serif display-bold-r-normal--0-0-0-0-p-0-iso8859-10
+NotoSerifDisplay-Bold.ttf -monotype-noto serif display-bold-r-normal--0-0-0-0-p-0-iso8859-13
+NotoSerifDisplay-Bold.ttf -monotype-noto serif display-bold-r-normal--0-0-0-0-p-0-iso8859-15
+NotoSerifDisplay-Bold.ttf -monotype-noto serif display-bold-r-normal--0-0-0-0-p-0-iso8859-16
+NotoSerifDisplay-Bold.ttf -monotype-noto serif display-bold-r-normal--0-0-0-0-p-0-iso8859-2
+NotoSerifDisplay-Bold.ttf -monotype-noto serif display-bold-r-normal--0-0-0-0-p-0-iso8859-3
+NotoSerifDisplay-Bold.ttf -monotype-noto serif display-bold-r-normal--0-0-0-0-p-0-iso8859-4
+NotoSerifDisplay-Bold.ttf -monotype-noto serif display-bold-r-normal--0-0-0-0-p-0-iso8859-5
+NotoSerifDisplay-Bold.ttf -monotype-noto serif display-bold-r-normal--0-0-0-0-p-0-iso8859-7
+NotoSerifDisplay-Bold.ttf -monotype-noto serif display-bold-r-normal--0-0-0-0-p-0-iso8859-9
+NotoSerifDisplay-Bold.ttf -monotype-noto serif display-bold-r-normal--0-0-0-0-p-0-koi8-e
+NotoSerifDisplay-Bold.ttf -monotype-noto serif display-bold-r-normal--0-0-0-0-p-0-koi8-r
+NotoSerifDisplay-Bold.ttf -monotype-noto serif display-bold-r-normal--0-0-0-0-p-0-koi8-ru
+NotoSerifDisplay-Bold.ttf -monotype-noto serif display-bold-r-normal--0-0-0-0-p-0-koi8-u
+NotoSerifDisplay-Bold.ttf -monotype-noto serif display-bold-r-normal--0-0-0-0-p-0-koi8-uni
+NotoSerifDisplay-Bold.ttf -monotype-noto serif display-bold-r-normal--0-0-0-0-p-0-microsoft-cp1252
+NotoSerifDisplay-Bold.ttf -monotype-noto serif display-bold-r-normal--0-0-0-0-p-0-suneu-greek
+NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display-bold-i-normal--0-0-0-0-p-0-adobe-standard
+NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display-bold-i-normal--0-0-0-0-p-0-ascii-0
+NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display-bold-i-normal--0-0-0-0-p-0-iso10646-1
+NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display-bold-i-normal--0-0-0-0-p-0-iso8859-1
+NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display-bold-i-normal--0-0-0-0-p-0-iso8859-10
+NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display-bold-i-normal--0-0-0-0-p-0-iso8859-13
+NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display-bold-i-normal--0-0-0-0-p-0-iso8859-15
+NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display-bold-i-normal--0-0-0-0-p-0-iso8859-16
+NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display-bold-i-normal--0-0-0-0-p-0-iso8859-2
+NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display-bold-i-normal--0-0-0-0-p-0-iso8859-3
+NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display-bold-i-normal--0-0-0-0-p-0-iso8859-4
+NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display-bold-i-normal--0-0-0-0-p-0-iso8859-5
+NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display-bold-i-normal--0-0-0-0-p-0-iso8859-7
+NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display-bold-i-normal--0-0-0-0-p-0-iso8859-9
+NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display-bold-i-normal--0-0-0-0-p-0-koi8-e
+NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display-bold-i-normal--0-0-0-0-p-0-koi8-r
+NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display-bold-i-normal--0-0-0-0-p-0-koi8-ru
+NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display-bold-i-normal--0-0-0-0-p-0-koi8-u
+NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display-bold-i-normal--0-0-0-0-p-0-koi8-uni
+NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display-bold-i-normal--0-0-0-0-p-0-microsoft-cp1252
+NotoSerifDisplay-BoldItalic.ttf -monotype-noto serif display-bold-i-normal--0-0-0-0-p-0-suneu-greek
+NotoSerifDisplay-Italic.ttf -monotype-noto serif display-medium-i-normal--0-0-0-0-p-0-adobe-standard
+NotoSerifDisplay-Italic.ttf -monotype-noto serif display-medium-i-normal--0-0-0-0-p-0-ascii-0
+NotoSerifDisplay-Italic.ttf -monotype-noto serif display-medium-i-normal--0-0-0-0-p-0-iso10646-1
+NotoSerifDisplay-Italic.ttf -monotype-noto serif display-medium-i-normal--0-0-0-0-p-0-iso8859-1
+NotoSerifDisplay-Italic.ttf -monotype-noto serif display-medium-i-normal--0-0-0-0-p-0-iso8859-10
+NotoSerifDisplay-Italic.ttf -monotype-noto serif display-medium-i-normal--0-0-0-0-p-0-iso8859-13
+NotoSerifDisplay-Italic.ttf -monotype-noto serif display-medium-i-normal--0-0-0-0-p-0-iso8859-15
+NotoSerifDisplay-Italic.ttf -monotype-noto serif display-medium-i-normal--0-0-0-0-p-0-iso8859-16
+NotoSerifDisplay-Italic.ttf -monotype-noto serif display-medium-i-normal--0-0-0-0-p-0-iso8859-2
+NotoSerifDisplay-Italic.ttf -monotype-noto serif display-medium-i-normal--0-0-0-0-p-0-iso8859-3
+NotoSerifDisplay-Italic.ttf -monotype-noto serif display-medium-i-normal--0-0-0-0-p-0-iso8859-4
+NotoSerifDisplay-Italic.ttf -monotype-noto serif display-medium-i-normal--0-0-0-0-p-0-iso8859-5
+NotoSerifDisplay-Italic.ttf -monotype-noto serif display-medium-i-normal--0-0-0-0-p-0-iso8859-7
+NotoSerifDisplay-Italic.ttf -monotype-noto serif display-medium-i-normal--0-0-0-0-p-0-iso8859-9
+NotoSerifDisplay-Italic.ttf -monotype-noto serif display-medium-i-normal--0-0-0-0-p-0-koi8-e
+NotoSerifDisplay-Italic.ttf -monotype-noto serif display-medium-i-normal--0-0-0-0-p-0-koi8-r
+NotoSerifDisplay-Italic.ttf -monotype-noto serif display-medium-i-normal--0-0-0-0-p-0-koi8-ru
+NotoSerifDisplay-Italic.ttf -monotype-noto serif display-medium-i-normal--0-0-0-0-p-0-koi8-u
+NotoSerifDisplay-Italic.ttf -monotype-noto serif display-medium-i-normal--0-0-0-0-p-0-koi8-uni
+NotoSerifDisplay-Italic.ttf -monotype-noto serif display-medium-i-normal--0-0-0-0-p-0-microsoft-cp1252
+NotoSerifDisplay-Italic.ttf -monotype-noto serif display-medium-i-normal--0-0-0-0-p-0-suneu-greek
 NotoSerifDisplay-Light.ttf -monotype-noto serif display light-light-r-normal--0-0-0-0-p-0-adobe-standard
 NotoSerifDisplay-Light.ttf -monotype-noto serif display light-light-r-normal--0-0-0-0-p-0-ascii-0
 NotoSerifDisplay-Light.ttf -monotype-noto serif display light-light-r-normal--0-0-0-0-p-0-iso10646-1
@@ -1525,10 +1592,10 @@ NotoSerifGurmukhi-Light.ttf -monotype-noto serif gurmukhi light-light-r-normal--
 NotoSerifGurmukhi-Medium.ttf -monotype-noto serif gurmukhi medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifGurmukhi-Regular.ttf -monotype-noto serif gurmukhi-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifGurmukhi-Thin.ttf -monotype-noto serif gurmukhi thin-thin-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSerifHebrew-Black.ttf -monotype-noto serif hebrew black-black-r-normal--0-0-0-0-p-0-iso10646-1
+NotoSerifHebrew-Black.ttf -monotype-noto serif hebrew blk-black-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifHebrew-Bold.ttf -monotype-noto serif hebrew-bold-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifHebrew-Light.ttf -monotype-noto serif hebrew light-light-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSerifHebrew-Medium.ttf -monotype-noto serif hebrew medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
+NotoSerifHebrew-Medium.ttf -monotype-noto serif hebrew med-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifHebrew-Regular.ttf -monotype-noto serif hebrew-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifHebrew-Thin.ttf -monotype-noto serif hebrew thin-thin-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifKannada-Black.ttf -monotype-noto serif kannada black-black-r-normal--0-0-0-0-p-0-iso10646-1
@@ -1562,9 +1629,6 @@ NotoSerifMyanmar-Light.ttf -monotype-noto serif myanmar light-medium-r-normal--0
 NotoSerifMyanmar-Medium.ttf -monotype-noto serif myanmar med-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifMyanmar-Regular.ttf -monotype-noto serif myanmar-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifMyanmar-Thin.ttf -monotype-noto serif myanmar thin-thin-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSerifOriya-Bold.ttf -misc-noto serif oriya-bold-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSerifOriya-Medium.ttf -misc-noto serif oriya medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSerifOriya-Regular.ttf -misc-noto serif oriya-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifSinhala-Black.ttf -monotype-noto serif sinhala black-black-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifSinhala-Bold.ttf -monotype-noto serif sinhala-bold-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifSinhala-Light.ttf -monotype-noto serif sinhala light-light-r-normal--0-0-0-0-p-0-iso10646-1
@@ -1583,7 +1647,6 @@ NotoSerifTamilSlanted-Light.ttf -monotype-notoseriftamilslanted light-light-r-no
 NotoSerifTamilSlanted-Medium.ttf -monotype-notoseriftamilslanted medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifTamilSlanted-Regular.ttf -monotype-notoseriftamilslanted-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifTamilSlanted-Thin.ttf -monotype-notoseriftamilslanted thin-thin-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSerifTangut-Regular.ttf -misc-noto serif tangut-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifTelugu-Black.ttf -monotype-noto serif telugu black-black-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifTelugu-Bold.ttf -monotype-noto serif telugu-bold-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifTelugu-Light.ttf -monotype-noto serif telugu light-light-r-normal--0-0-0-0-p-0-iso10646-1
@@ -1597,14 +1660,9 @@ NotoSerifThai-Medium.ttf -monotype-noto serif thai med-medium-r-normal--0-0-0-0-
 NotoSerifThai-Regular.ttf -monotype-noto serif thai-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifThai-Thin.ttf -monotype-noto serif thai thin-thin-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifTibetan-Black.ttf -monotype-noto serif tibetan black-black-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSerifTibetan-Bold.ttf -monotype-noto serif tibetan bold-bold-r-normal--0-0-0-0-p-0-iso10646-1
+NotoSerifTibetan-Bold.ttf -monotype-noto serif tibetan-bold-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifTibetan-Light.ttf -monotype-noto serif tibetan light-light-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifTibetan-Medium.ttf -monotype-noto serif tibetan medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifTibetan-Regular.ttf -monotype-noto serif tibetan-medium-r-normal--0-0-0-0-p-0-iso10646-1
 NotoSerifTibetan-Thin.ttf -monotype-noto serif tibetan thin-thin-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSerifVithkuqi-Bold.ttf -misc-noto serif vithkuqi-bold-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSerifVithkuqi-Medium.ttf -misc-noto serif vithkuqi medium-medium-r-normal--0-0-0-0-p-0-iso10646-1
-NotoSerifVithkuqi-Regular.ttf -misc-noto serif vithkuqi-medium-r-normal--0-0-0-0-p-0-iso10646-1
-NotoTraditionalNushu-Bold.ttf -misc-noto traditional nushu-bold-r-normal--0-0-0-0-p-0-iso10646-1
-NotoTraditionalNushu-Light.ttf -misc-noto traditional nushu light-light-r-normal--0-0-0-0-p-0-iso10646-1
 NotoTraditionalNushu-Regular.ttf -misc-noto traditional nushu-medium-r-normal--0-0-0-0-p-0-iso10646-1
