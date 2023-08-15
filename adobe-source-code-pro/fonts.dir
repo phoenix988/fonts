@@ -1,4 +1,4 @@
-298
+296
 SourceCodePro-Black.otf -adobe-source code pro black-black-r-normal--0-0-0-0-m-0-ascii-0
 SourceCodePro-Black.otf -adobe-source code pro black-black-r-normal--0-0-0-0-m-0-ibm-cp437
 SourceCodePro-Black.otf -adobe-source code pro black-black-r-normal--0-0-0-0-m-0-ibm-cp850
@@ -258,42 +258,40 @@ SourceCodePro-SemiboldIt.otf -adobe-source code pro semibold-semibold-i-normal--
 SourceCodePro-SemiboldIt.otf -adobe-source code pro semibold-semibold-i-normal--0-0-0-0-m-0-iso8859-4
 SourceCodePro-SemiboldIt.otf -adobe-source code pro semibold-semibold-i-normal--0-0-0-0-m-0-iso8859-9
 SourceCodePro-SemiboldIt.otf -adobe-source code pro semibold-semibold-i-normal--0-0-0-0-m-0-microsoft-cp1252
-SourceCodeVariable-Italic.otf -adobe-source code variable-extralight-i-normal--0-0-0-0-m-0-adobe-standard
-SourceCodeVariable-Italic.otf -adobe-source code variable-extralight-i-normal--0-0-0-0-m-0-ascii-0
-SourceCodeVariable-Italic.otf -adobe-source code variable-extralight-i-normal--0-0-0-0-m-0-ibm-cp850
-SourceCodeVariable-Italic.otf -adobe-source code variable-extralight-i-normal--0-0-0-0-m-0-ibm-cp852
-SourceCodeVariable-Italic.otf -adobe-source code variable-extralight-i-normal--0-0-0-0-m-0-iso10646-1
-SourceCodeVariable-Italic.otf -adobe-source code variable-extralight-i-normal--0-0-0-0-m-0-iso8859-1
-SourceCodeVariable-Italic.otf -adobe-source code variable-extralight-i-normal--0-0-0-0-m-0-iso8859-10
-SourceCodeVariable-Italic.otf -adobe-source code variable-extralight-i-normal--0-0-0-0-m-0-iso8859-13
-SourceCodeVariable-Italic.otf -adobe-source code variable-extralight-i-normal--0-0-0-0-m-0-iso8859-15
-SourceCodeVariable-Italic.otf -adobe-source code variable-extralight-i-normal--0-0-0-0-m-0-iso8859-16
-SourceCodeVariable-Italic.otf -adobe-source code variable-extralight-i-normal--0-0-0-0-m-0-iso8859-2
-SourceCodeVariable-Italic.otf -adobe-source code variable-extralight-i-normal--0-0-0-0-m-0-iso8859-3
-SourceCodeVariable-Italic.otf -adobe-source code variable-extralight-i-normal--0-0-0-0-m-0-iso8859-4
-SourceCodeVariable-Italic.otf -adobe-source code variable-extralight-i-normal--0-0-0-0-m-0-iso8859-9
-SourceCodeVariable-Italic.otf -adobe-source code variable-extralight-i-normal--0-0-0-0-m-0-microsoft-cp1252
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-adobe-standard
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-ascii-0
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-ibm-cp437
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-ibm-cp850
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-ibm-cp852
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-ibm-cp866
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-iso10646-1
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-iso8859-1
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-iso8859-10
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-iso8859-13
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-iso8859-15
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-iso8859-16
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-iso8859-2
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-iso8859-3
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-iso8859-4
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-iso8859-5
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-iso8859-7
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-iso8859-9
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-koi8-e
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-koi8-r
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-koi8-ru
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-koi8-u
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-koi8-uni
-SourceCodeVariable-Roman.otf -adobe-source code variable-extralight-r-normal--0-0-0-0-m-0-microsoft-cp1252
+SourceCodeVF-Italic.otf -adobe-sourcecodevf-extralight-i-normal--0-0-0-0-m-0-ascii-0
+SourceCodeVF-Italic.otf -adobe-sourcecodevf-extralight-i-normal--0-0-0-0-m-0-ibm-cp850
+SourceCodeVF-Italic.otf -adobe-sourcecodevf-extralight-i-normal--0-0-0-0-m-0-ibm-cp852
+SourceCodeVF-Italic.otf -adobe-sourcecodevf-extralight-i-normal--0-0-0-0-m-0-iso10646-1
+SourceCodeVF-Italic.otf -adobe-sourcecodevf-extralight-i-normal--0-0-0-0-m-0-iso8859-1
+SourceCodeVF-Italic.otf -adobe-sourcecodevf-extralight-i-normal--0-0-0-0-m-0-iso8859-10
+SourceCodeVF-Italic.otf -adobe-sourcecodevf-extralight-i-normal--0-0-0-0-m-0-iso8859-13
+SourceCodeVF-Italic.otf -adobe-sourcecodevf-extralight-i-normal--0-0-0-0-m-0-iso8859-15
+SourceCodeVF-Italic.otf -adobe-sourcecodevf-extralight-i-normal--0-0-0-0-m-0-iso8859-16
+SourceCodeVF-Italic.otf -adobe-sourcecodevf-extralight-i-normal--0-0-0-0-m-0-iso8859-2
+SourceCodeVF-Italic.otf -adobe-sourcecodevf-extralight-i-normal--0-0-0-0-m-0-iso8859-3
+SourceCodeVF-Italic.otf -adobe-sourcecodevf-extralight-i-normal--0-0-0-0-m-0-iso8859-4
+SourceCodeVF-Italic.otf -adobe-sourcecodevf-extralight-i-normal--0-0-0-0-m-0-iso8859-9
+SourceCodeVF-Italic.otf -adobe-sourcecodevf-extralight-i-normal--0-0-0-0-m-0-microsoft-cp1252
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-ascii-0
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-ibm-cp437
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-ibm-cp850
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-ibm-cp852
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-ibm-cp866
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-iso10646-1
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-iso8859-1
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-iso8859-10
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-iso8859-13
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-iso8859-15
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-iso8859-16
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-iso8859-2
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-iso8859-3
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-iso8859-4
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-iso8859-5
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-iso8859-7
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-iso8859-9
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-koi8-e
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-koi8-r
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-koi8-ru
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-koi8-u
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-koi8-uni
+SourceCodeVF-Upright.otf -adobe-sourcecodevf-extralight-r-normal--0-0-0-0-m-0-microsoft-cp1252
